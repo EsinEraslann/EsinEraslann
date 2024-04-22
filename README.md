@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontenWelcome to my corner of the digital realm! I'm Esin, a frontend developer with a keen eye for crafting seamless user experiences and a deep love for bringing designs to life in the browser.d developer from India</h3>
+<p>A passionate frontenWelcome to my corner of the digital realm! I'm Esin, a frontend developer with a keen eye for crafting seamless user experiences and a deep love for bringing designs to life in the browser.d developer from India</p>
 
 - 🌟 I’m currently working on **Front-end**
 
